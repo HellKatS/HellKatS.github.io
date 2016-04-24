@@ -1,7 +1,13 @@
 body {
-	background-image: url("css/001.jpg");
+	background-image: url("001.jpg");
+	background-repeat: no-repeat;
 }
-Logo {
+h1 {
 	color: maroon;
 	margin-left: 40px;
+}
+div.menu {
+	width: 500px;
+    height: 30px;
+    border: 3px solid #73AD21;
 }
