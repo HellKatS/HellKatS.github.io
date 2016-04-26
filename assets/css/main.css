@@ -1412,7 +1412,7 @@
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Tahoma", Helvetica, sans-serif;
+		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
@@ -1459,9 +1459,8 @@
 		}
 
 	strong, b {
-		color: #00DC58;
-		font-weight: 800;
-		font-size: 25px
+		color: #fff;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -1561,7 +1560,7 @@
 	code {
 		background: rgba(144, 144, 144, 0.25);
 		border-radius: 3px;
-		font-family: "Arial", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		letter-spacing: 0;
 		margin: 0 0.25em;
@@ -1570,7 +1569,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Arial", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -2309,7 +2308,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color:  #00DC58;
+			background-color: #ed4933;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2319,7 +2318,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #2BF35E !important;
+				background-color: #ef5e4a !important;
 			}
 
 			input[type="submit"].special:active,
@@ -2383,7 +2382,7 @@
 			padding: 4em 4em 2em 6em ;
 			display: block;
 			position: relative;
-			text-align: center;
+			text-align: left;
 			width: 50%;
 		}
 
